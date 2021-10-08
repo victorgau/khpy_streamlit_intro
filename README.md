@@ -12,6 +12,7 @@
 
 * [Streamlit官網](https://streamlit.io/)
 * [Streamlit官網文件](https://docs.streamlit.io/en/stable/)
+* [Streamlit API Reference](https://docs.streamlit.io/en/stable/api.html)
 * [Streamlit Cheat Sheet](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py)
 
 ### 2. 實作引導
